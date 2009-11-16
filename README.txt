@@ -1,0 +1,1 @@
+This is in regards to <a href="http://code.google.com/p/maven-android-plugin/issues/detail?id=38">Issue 38</a> of the <a href="http://code.google.com/p/maven-android-plugin/">Maven Android Plugin</a> project.
